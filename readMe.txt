@@ -1,3 +1,4 @@
 git
 create a new branch is quick
-creating a new branch is quick & simple
+<<<<<<< HEAD
+creating a new branch is quick AND simple
